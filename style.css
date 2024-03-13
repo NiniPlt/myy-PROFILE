@@ -1,6 +1,6 @@
 body {
 	background: rgb(245,245,245);
-    color: #4F674F;
+    color: #F87E60;
     font-size: 17px;
     font-weight: light;
     font-family: 'Roboto', sans-serif;
@@ -12,7 +12,7 @@ h1,h2,h3 {
     font-family: 'Montserrat', serif;
 }
 h1 {
-	color: #4F674F;
+	color: #F87E60;
 	font-size: 32px;
 	font-weight: 900;
 }
@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 { 
-	color: #4F674F;
+	color: #F87E60;
 	font-size: 20px;
 	font-weight: lighter;
 	font-weight: 500;

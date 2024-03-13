@@ -1,6 +1,6 @@
 body {
 	background: rgb(245,245,245);
-    color: #575F7D;
+    color: #4F674F;
     font-size: 17px;
     font-weight: light;
     font-family: 'Roboto', sans-serif;
@@ -12,24 +12,24 @@ h1,h2,h3 {
     font-family: 'Montserrat', serif;
 }
 h1 {
-	color: #575F7D;
+	color: #4F674F;
 	font-size: 32px;
 	font-weight: 900;
 }
 h2 { 
-	color: #0056B2;
+	color: #E8985D;
 	font-size: 25px;
 	font-weight: 500;
 }
 
 h3 { 
-	color: #575F7D;
+	color: #4F674F;
 	font-size: 20px;
 	font-weight: lighter;
 	font-weight: 500;
 }
 a {
-	color: #6B71E1;
+	color: #E19251;
 	text-decoration: none;
 	font-weight: bold;
     transition: color 0.3s ease;
@@ -98,7 +98,7 @@ i:hover {
 }
 
 .btn-blue {
-	background-color: #6B72E1;
+	background-color: #E19251;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 5px;
